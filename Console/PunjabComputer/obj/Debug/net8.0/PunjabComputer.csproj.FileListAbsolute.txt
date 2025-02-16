@@ -1,0 +1,14 @@
+F:\Source Codes\C#\Console\PunjabComputer\bin\Debug\net8.0\PunjabComputer.exe
+F:\Source Codes\C#\Console\PunjabComputer\bin\Debug\net8.0\PunjabComputer.deps.json
+F:\Source Codes\C#\Console\PunjabComputer\bin\Debug\net8.0\PunjabComputer.runtimeconfig.json
+F:\Source Codes\C#\Console\PunjabComputer\bin\Debug\net8.0\PunjabComputer.dll
+F:\Source Codes\C#\Console\PunjabComputer\bin\Debug\net8.0\PunjabComputer.pdb
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\PunjabComputer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\PunjabComputer.AssemblyInfoInputs.cache
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\PunjabComputer.AssemblyInfo.cs
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\PunjabComputer.csproj.CoreCompileInputs.cache
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\PunjabComputer.dll
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\refint\PunjabComputer.dll
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\PunjabComputer.pdb
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\PunjabComputer.genruntimeconfig.cache
+F:\Source Codes\C#\Console\PunjabComputer\obj\Debug\net8.0\ref\PunjabComputer.dll

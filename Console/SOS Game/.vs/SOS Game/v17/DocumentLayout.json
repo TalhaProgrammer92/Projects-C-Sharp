@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Source Codes\\C#\\Console\\SOS Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|f:\\source codes\\c#\\console\\sos game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|f:\\source codes\\c#\\console\\sos game\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|solutionrelative:round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|f:\\source codes\\c#\\console\\sos game\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|f:\\source codes\\c#\\console\\sos game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|f:\\source codes\\c#\\console\\sos game\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673E25EF-925D-40FF-8EBE-728B18889BAF}|SOS Game.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\SOS Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\SOS Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:13:56.586Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Round.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\SOS Game\\Round.cs",
+              "RelativeDocumentMoniker": "Round.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\SOS Game\\Round.cs",
+              "RelativeToolTip": "Round.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T03:27:04.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\SOS Game\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\SOS Game\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:25:21.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\SOS Game\\Cell.cs",
+              "RelativeDocumentMoniker": "Cell.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\SOS Game\\Cell.cs",
+              "RelativeToolTip": "Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:19:38.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\SOS Game\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\SOS Game\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAnwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:15:10.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

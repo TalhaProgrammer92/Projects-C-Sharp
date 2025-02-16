@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Source Codes\\C#\\Console\\Sudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|f:\\source codes\\c#\\console\\sudoku\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|f:\\source codes\\c#\\console\\sudoku\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|solutionrelative:grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|f:\\source codes\\c#\\console\\sudoku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|f:\\source codes\\c#\\console\\sudoku\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|f:\\source codes\\c#\\console\\sudoku\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|solutionrelative:misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|f:\\source codes\\c#\\console\\sudoku\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB54821-47F1-4480-8F60-0A1C4619F1F6}|Sudoku.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\Sudoku\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\Sudoku\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:04:03.208Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\Sudoku\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\Sudoku\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:55:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\Sudoku\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\Sudoku\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:54:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\Sudoku\\Grid.cs",
+              "RelativeDocumentMoniker": "Grid.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\Sudoku\\Grid.cs",
+              "RelativeToolTip": "Grid.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:10:14.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\Sudoku\\Cell.cs",
+              "RelativeDocumentMoniker": "Cell.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\Sudoku\\Cell.cs",
+              "RelativeToolTip": "Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:04:37.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Misc.cs",
+              "DocumentMoniker": "F:\\Source Codes\\C#\\Console\\Sudoku\\Misc.cs",
+              "RelativeDocumentMoniker": "Misc.cs",
+              "ToolTip": "F:\\Source Codes\\C#\\Console\\Sudoku\\Misc.cs",
+              "RelativeToolTip": "Misc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:44:07.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

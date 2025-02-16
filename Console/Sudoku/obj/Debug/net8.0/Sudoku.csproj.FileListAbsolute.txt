@@ -1,0 +1,35 @@
+D:\Coding Project\Sudoku\bin\Debug\net8.0\Sudoku.exe
+D:\Coding Project\Sudoku\bin\Debug\net8.0\Sudoku.deps.json
+D:\Coding Project\Sudoku\bin\Debug\net8.0\Sudoku.runtimeconfig.json
+D:\Coding Project\Sudoku\bin\Debug\net8.0\Sudoku.dll
+D:\Coding Project\Sudoku\bin\Debug\net8.0\Sudoku.pdb
+D:\Coding Project\Sudoku\obj\Debug\net8.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Project\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfoInputs.cache
+D:\Coding Project\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfo.cs
+D:\Coding Project\Sudoku\obj\Debug\net8.0\Sudoku.csproj.CoreCompileInputs.cache
+D:\Coding Project\Sudoku\obj\Debug\net8.0\Sudoku.dll
+D:\Coding Project\Sudoku\obj\Debug\net8.0\refint\Sudoku.dll
+D:\Coding Project\Sudoku\obj\Debug\net8.0\Sudoku.pdb
+D:\Coding Project\Sudoku\obj\Debug\net8.0\Sudoku.genruntimeconfig.cache
+D:\Coding Project\Sudoku\obj\Debug\net8.0\ref\Sudoku.dll
+G:\My Drive\Coding Data\C#\Projects\Sudoku\obj\Debug\net8.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Coding Data\C#\Projects\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfoInputs.cache
+G:\My Drive\Coding Data\C#\Projects\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfo.cs
+G:\My Drive\Coding Data\C#\Projects\Sudoku\obj\Debug\net8.0\Sudoku.csproj.CoreCompileInputs.cache
+G:\My Drive\Coding Data\C#\Projects\Sudoku\obj\Debug\net8.0\Sudoku.dll
+G:\My Drive\Coding Data\C#\Projects\Sudoku\obj\Debug\net8.0\refint\Sudoku.dll
+G:\My Drive\Coding Data\C#\Projects\Sudoku\obj\Debug\net8.0\Sudoku.pdb
+F:\Source Codes\C#\Console\Sudoku\bin\Debug\net8.0\Sudoku.exe
+F:\Source Codes\C#\Console\Sudoku\bin\Debug\net8.0\Sudoku.deps.json
+F:\Source Codes\C#\Console\Sudoku\bin\Debug\net8.0\Sudoku.runtimeconfig.json
+F:\Source Codes\C#\Console\Sudoku\bin\Debug\net8.0\Sudoku.dll
+F:\Source Codes\C#\Console\Sudoku\bin\Debug\net8.0\Sudoku.pdb
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfoInputs.cache
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfo.cs
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\Sudoku.csproj.CoreCompileInputs.cache
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\Sudoku.dll
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\refint\Sudoku.dll
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\Sudoku.pdb
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\Sudoku.genruntimeconfig.cache
+F:\Source Codes\C#\Console\Sudoku\obj\Debug\net8.0\ref\Sudoku.dll
