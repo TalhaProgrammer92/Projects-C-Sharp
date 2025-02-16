@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\Source Codes\C#\WPF\CRUD App\CRUD App\obj\Debug\net8.0-windows\
+F:\Source Codes\C#\Public\Projects-C-Sharp\WPF\CRUD App\CRUD App\obj\Debug\net8.0-windows\
 CRUD_App
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-F:\Source Codes\C#\WPF\CRUD App\CRUD App\App.xaml
-11407045341
+F:\Source Codes\C#\Public\Projects-C-Sharp\WPF\CRUD App\CRUD App\App.xaml
+2251059014
 
-41473841580
+5-1937004673
 215-409223961
-MainWindow.xaml;
+HomeWindow.xaml;MainWindow.xaml;
 
-False
+True
 

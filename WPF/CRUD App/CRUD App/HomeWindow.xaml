@@ -7,11 +7,12 @@
         mc:Ignorable="d"
         Title="HomeWindow" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="HomeHeader" HorizontalAlignment="Center" Height="81" Margin="21,10,0,0" TextWrapping="Wrap" Text="Punjab Computer Management Software" VerticalAlignment="Top" Width="750" FontFamily="Bahnschrift Condensed" FontSize="36" TextAlignment="Center" Background="White">
+        <TextBox x:Name="HomeHeader" HorizontalAlignment="Center" Height="48" TextWrapping="Wrap" Text="Punjab Computer Management Software" VerticalAlignment="Top" Width="800" FontFamily="Bahnschrift Condensed" FontSize="36" TextAlignment="Center" Background="#FF00FFE2">
             <TextBox.Effect>
                 <DropShadowEffect/>
             </TextBox.Effect>
         </TextBox>
+        <Button x:Name="AddDataButton" Content="Button" HorizontalAlignment="Left" Height="84" Margin="81,123,0,0" VerticalAlignment="Top" Width="75" Background="#FF52FFD3"/>
 
     </Grid>
 </Window>

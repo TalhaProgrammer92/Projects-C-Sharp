@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+Mfw+7mIAQ=",
+  "dgSpecHash": "hXQd3V/TN24=",
   "success": true,
-  "projectFilePath": "F:\\Source Codes\\C#\\WPF\\CRUD App\\CRUD App\\CRUD App.csproj",
+  "projectFilePath": "F:\\Source Codes\\C#\\Public\\Projects-C-Sharp\\WPF\\CRUD App\\CRUD App\\CRUD App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Talha Ahmad\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Talha Ahmad\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
